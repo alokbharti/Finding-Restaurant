@@ -9,10 +9,10 @@ First ask about your address
 ![alt text](Screenshots/Screenshot_2018-03-29-18-43-56.png "First ask about your address")
 
 Then if accepted
-![alt text](Screenshots/Hotels_At_Your_Location.png "Showing Hotels at your current address")
+![alt text](Screenshots/Hotels_At_Your_Location.jpeg "Showing Hotels at your current address")
 
 if you deny 
-![alt text](Screenshots/Hotels_at_default_location.png "Hotels at default location patna")
+![alt text](Screenshots/Hotels_at_default_location.jpeg "Hotels at default location patna")
 
 If you want to know more about the hotels and wnat to see the way to hotels
-![alt text](Screenshots/Details_of_hotels.png "Name,address and phone number and also a button to see way of hotel")
+![alt text](Screenshots/Details_of_hotels.jpeg "Name,address and phone number and also a button to see way of hotel")
